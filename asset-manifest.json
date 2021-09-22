@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs-pokemon-api-redux/static/css/main.f62a3bb7.chunk.css",
+    "main.js": "/reactjs-pokemon-api-redux/static/js/main.15481299.chunk.js",
+    "main.js.map": "/reactjs-pokemon-api-redux/static/js/main.15481299.chunk.js.map",
+    "runtime-main.js": "/reactjs-pokemon-api-redux/static/js/runtime-main.458356e1.js",
+    "runtime-main.js.map": "/reactjs-pokemon-api-redux/static/js/runtime-main.458356e1.js.map",
+    "static/js/2.58406b77.chunk.js": "/reactjs-pokemon-api-redux/static/js/2.58406b77.chunk.js",
+    "static/js/2.58406b77.chunk.js.map": "/reactjs-pokemon-api-redux/static/js/2.58406b77.chunk.js.map",
+    "static/js/3.e3e2587c.chunk.js": "/reactjs-pokemon-api-redux/static/js/3.e3e2587c.chunk.js",
+    "static/js/3.e3e2587c.chunk.js.map": "/reactjs-pokemon-api-redux/static/js/3.e3e2587c.chunk.js.map",
+    "index.html": "/reactjs-pokemon-api-redux/index.html",
+    "static/css/main.f62a3bb7.chunk.css.map": "/reactjs-pokemon-api-redux/static/css/main.f62a3bb7.chunk.css.map",
+    "static/js/2.58406b77.chunk.js.LICENSE.txt": "/reactjs-pokemon-api-redux/static/js/2.58406b77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.458356e1.js",
+    "static/js/2.58406b77.chunk.js",
+    "static/css/main.f62a3bb7.chunk.css",
+    "static/js/main.15481299.chunk.js"
+  ]
+}
