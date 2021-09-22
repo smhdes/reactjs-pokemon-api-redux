@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# About Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project includes Poke Api, Redux, Context Api, Multi Language, React Hooks, Styled Component
+
+The project is serve you list of pokemons and you can add/ remove each pokemon on your pokedex
 
 ## Available Scripts
 

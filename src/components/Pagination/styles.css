@@ -1,0 +1,21 @@
+.pagination-contanier{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px 0;
+}
+.pagination-contanier button{
+    margin: 0 10px;
+    font-size: 20px;
+    text-align: center;
+    padding: 8px 25px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    
+}
+
+.text{
+color: rgb(80, 24, 126);
+font-weight: 900;
+}
