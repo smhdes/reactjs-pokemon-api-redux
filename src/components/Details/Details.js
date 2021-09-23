@@ -76,7 +76,6 @@ export default function Details() {
   }, [loading]);
 
   console.log("isCaught: ", isCaught);
-  console.log("caughtPokemons: ", caughtPokemons);
   return (
     <React.Fragment>
       <Header>
