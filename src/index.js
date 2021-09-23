@@ -14,7 +14,7 @@ import "./i18nextInit";
 ReactDOM.render(
   <Provider store={store}>
     <Suspense fallback={<Loader />}>
-      <Router basename="/React">
+      <Router basename="/">
         <Route exact path="/" component={App} />
         <Route path="/details/:id" component={Details} />
         <Route path="/caughts" component={CaughtList} />
