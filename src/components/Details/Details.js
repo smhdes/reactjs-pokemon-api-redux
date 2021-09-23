@@ -59,9 +59,6 @@ export default function Details() {
 
   const pokemonDetails = useSelector((state) => state.pokemonsReducer.pokemon);
   const isCaught = useSelector((state) => state.pokemonsReducer.isCaught);
-  const caughtPokemons = useSelector(
-    (state) => state.pokemonsReducer.caughtPokemonList
-  );
   const loading = useSelector((state) => state.pokemonsReducer.loading);
   const params = useParams();
 
